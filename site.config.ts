@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Patterned rollers factory made in china',
-  domain: 'https://patternedrollers.mobilehouse.asia/',
+  domain: 'patternedrollers.mobilehouse.asia',
   author: 'Gavin WhatsApp：+8619906365856',
 
   // open graph metadata (optional)
