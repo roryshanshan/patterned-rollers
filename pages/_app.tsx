@@ -1,3 +1,4 @@
+import '../styles/notion.css'
 // used for rendering equations (optional)
 import 'katex/dist/katex.min.css'
 // used for code syntax highlighting (optional)
