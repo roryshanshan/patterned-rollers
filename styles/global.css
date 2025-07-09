@@ -60,3 +60,20 @@ body {
 ::-webkit-scrollbar-track {           
     background-color: var(--bg-color);
 }
+
+/* 修复 Notion 视频块覆盖 */
+.notion-embed {
+  position: relative;
+  z-index: 1;
+  max-width: 100%;
+}
+
+.notion-image {
+  position: relative;
+  z-index: 2;
+}
+
+.notion-text {
+  position: relative;
+  z-index: 3;
+}
